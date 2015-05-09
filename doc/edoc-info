@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,resource_discovery}.
+{packages,[]}.
+{modules,[rd_app,rd_server,rd_sup,resource_discovery]}.

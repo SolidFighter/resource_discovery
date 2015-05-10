@@ -8,7 +8,7 @@
 %%%-------------------------------------------------------------------
 {application, resource_discovery, [
   {description, ""},
-  {vsn, "1"},
+  {vsn, "0.1.0"},
   {registered, []},
   {applications, [
     kernel,
